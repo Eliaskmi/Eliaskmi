@@ -7,7 +7,7 @@
   <h3> GitHub Status </h3>
   <br>
   <div style="display: flex; justify-content: center;">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Eliaskmi&line_height=25&show_icons=true&theme=dark">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Eliaskmi&line_height=25&show_icons=true&theme=classic">
   </div>
    <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo">
