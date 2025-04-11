@@ -1,7 +1,7 @@
 <div align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&pause=1000&color=babyblue&center=true&vCenter=true&width=435&lines=Welcome!,+I'm+Elias+Davi!" alt="Typing SVG">
 </div>
-
+<h2 text align="center"> 'Pleasure in work perfects the work' - Aristóteles</h2>
 #
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <img align= "right" src="./src/" alt="GIF" height="240">
