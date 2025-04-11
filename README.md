@@ -16,13 +16,14 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Eliaskmi&line_height=25&show_icons=true&theme=dark">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliaskmi&layout=compact&theme=dark">
   </div>
-</div>
-<div style="display: flex; gap: 10px; align-items: center;">
+   <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js logo">
 </div>
+</div>
+
 
 
 
